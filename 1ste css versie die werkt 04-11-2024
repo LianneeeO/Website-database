@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(185, 206, 225);
+    
+    title {
+      font-size: larger;
+      color: #fff9fe;
+      font-style: italic;
+  
+  h1 {
+    font-size: 40px;
+    color: black;
+  }
+  
+  h2 {
+    color: #ededed;
+    margin-left: 20px;
+    font-size: 20px;
+      border: 1px solid black;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+      background-color: lightblue;
+    }
+}
+  h3 {
+    color: black;
+    font-size: medium;
+    background-color: #ededed;
+  }
