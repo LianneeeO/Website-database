@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="ccstestwebsite.css">
+    <title>Testwebsite informatica</title>
+</head>
+<body>
+    <h1>Voorstel informatica project 3-11-2024</h1>
+    <div class="container">
+        <h2>wat ik wil maken?</h2>
+        <h3>Met dit project wil ik een website maken die verschillende soorten muziek opslaat met behulp van een database. ik wil met verschillende knoppen ookwel buttons genoemd kunnen selecteren wat voor genre muziek ik wil spelen. luisteren of wil bekijken.</h3>
+    </div>
+</body>
+</html>
