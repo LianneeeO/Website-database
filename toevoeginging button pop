@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <head>Muziekgenre pop</head>
+    <body>
+        <h1>Dit is de muziekgenre POP</h1>
+        <h2>Hier verschillende links naar popmuziek!</h2>
+        <h3><a href="https://open.spotify.com/album/0ze3poPjmoego0jWvSYmgD?si=6Ixpg7EyQPaLfHLnPNF2jQ"target="_blank">Spotify pop muziek</a></h3>
+    </body>
+</html>
