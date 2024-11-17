@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(185, 206, 225);
+}
+
+h1 {
+  font-size: 40px;
+  color: white;
+  background-color: #989898;
+  padding: 30px;
+  text-align: center;
+}
+
+
+.container {
+  display: flex; /* Use Flexbox to place items side by side */
+  align-items: stretch; /* Ensures both elements are the same height */
+  gap: 20px; /* Optional spacing between h2 and h3 */
+  margin: 20px;
+}
+
+h2 {
+  color: #ededed;
+  font-size: 40px;
+  background: #ccc;
+  padding: 20px;
+  flex: 1 1 30%; /* Takes 30% of the container width */
+  margin: 0;
+}
+
+
+h3 {
+  color: black;
+  font-size: medium;
+  background-color: #ededed;
+  padding: 20px;
+  flex: 1 1 70%; /* Takes 70% of the container width */
+  margin: 0;
+}
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.button1 {
+  background-color: #88d48e; 
+}
+.button1:hover {
+  background-color: #86aa77;
+} 
+.button2 {
+  background-color: #88d48e; 
+}
+.button2:hover {
+  background-color: #86aa77;
+} 
